@@ -1,6 +1,13 @@
 list = []
 
 
+element_For_The_List = input("inserisci elemento per la lista: ")
+
+list.append(element_For_The_List)
+
+
+
+
 
 
 
