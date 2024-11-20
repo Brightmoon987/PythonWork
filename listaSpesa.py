@@ -1,9 +1,16 @@
 list = []
 
 
-element_For_The_List = input("inserisci elemento per la lista: ")
+def aggiungi_elementi_lista():
+    
+    x = input("aggiungi elemento alla lista: ")
+    
+    list.append(x)
+    
+    
+    
+    
 
-list.append(element_For_The_List)
 
 
 
